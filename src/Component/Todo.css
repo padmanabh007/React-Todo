@@ -1,0 +1,50 @@
+.TodoApp{
+   
+    text-align: center;
+}
+
+
+
+.Todomain{
+    text-align : center;
+    border: 10px;
+    background-color : #fff;
+}
+
+.Text{
+    border-radius: 5px;
+    width : 50%;
+}
+
+.addButton{
+    color:white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: rgba(51,51,51,.5);
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+.ListItem{
+    margin-top: 0.8em;
+    width: 20em;
+    height: 2em;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 6px;
+    padding-left: 40px;
+}
+
+.RemoveButton{
+    border:none;
+    padding-right: 100px;
+    background-color: #fff;
+}
